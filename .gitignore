@@ -1,0 +1,18 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+.colcon_release/
+.colcon_install_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode/JetBrains etc.
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.bak
